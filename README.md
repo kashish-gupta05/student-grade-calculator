@@ -28,3 +28,11 @@ A simple Python project that calculates a student's total marks, percentage, and
 ## Author
 
 Kashish Gupta
+## 📌 Project Demo
+
+This project takes marks of 5 subjects and calculates:
+- Total marks
+- Percentage
+- Grade
+
+The program was tested using an online Python compiler.
